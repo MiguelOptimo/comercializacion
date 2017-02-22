@@ -1,0 +1,174 @@
+.icon_{
+	width: 16px;
+	height: 16px;
+	display: block;
+}
+.icon_about{background:url(icons_hidpi.png) no-repeat 0 -0px!important;background-size:16px!important}
+.icon_rtl.icon_anchor{background:url(icons_hidpi.png) no-repeat 0 -24px!important;background-size:16px!important}
+.icon_ltr.icon_anchor{background:url(icons_hidpi.png) no-repeat 0 -48px!important;background-size:16px!important}
+.icon_autocorrect{background:url(icons_hidpi.png) no-repeat 0 -72px!important;background-size:16px!important}
+.icon_bgcolor{background:url(icons_hidpi.png) no-repeat 0 -96px!important;background-size:16px!important}
+.icon_bidiltr{background:url(icons_hidpi.png) no-repeat 0 -120px!important;background-size:16px!important}
+.icon_bidirtl{background:url(icons_hidpi.png) no-repeat 0 -144px!important;background-size:16px!important}
+.icon_blockquote{background:url(icons_hidpi.png) no-repeat 0 -168px!important;background-size:16px!important}
+.icon_bold{background:url(icons_hidpi.png) no-repeat 0 -192px!important;background-size:16px!important}
+.icon_rtl.icon_bulletedlist{background:url(icons_hidpi.png) no-repeat 0 -216px!important;background-size:16px!important}
+.icon_ltr.icon_bulletedlist{background:url(icons_hidpi.png) no-repeat 0 -240px!important;background-size:16px!important}
+.icon_button{background:url(icons_hidpi.png) no-repeat 0 -264px!important;background-size:16px!important}
+.icon_checkbox{background:url(icons_hidpi.png) no-repeat 0 -288px!important;background-size:16px!important}
+.icon_rtl.icon_copy{background:url(icons_hidpi.png) no-repeat 0 -312px!important;background-size:16px!important}
+.icon_ltr.icon_copy{background:url(icons_hidpi.png) no-repeat 0 -336px!important;background-size:16px!important}
+.icon_rtl.icon_cut{background:url(icons_hidpi.png) no-repeat 0 -360px!important;background-size:16px!important}
+.icon_ltr.icon_cut{background:url(icons_hidpi.png) no-repeat 0 -384px!important;background-size:16px!important}
+.icon_rtl.icon_docprops{background:url(icons_hidpi.png) no-repeat 0 -408px!important;background-size:16px!important}
+.icon_ltr.icon_docprops{background:url(icons_hidpi.png) no-repeat 0 -432px!important;background-size:16px!important}
+.icon_rtl.icon_find{background:url(icons_hidpi.png) no-repeat 0 -456px!important;background-size:16px!important}
+.icon_ltr.icon_find{background:url(icons_hidpi.png) no-repeat 0 -480px!important;background-size:16px!important}
+.icon_form{background:url(icons_hidpi.png) no-repeat 0 -504px!important;background-size:16px!important}
+.icon_hiddenfield{background:url(icons_hidpi.png) no-repeat 0 -528px!important;background-size:16px!important}
+.icon_horizontalrule{background:url(icons_hidpi.png) no-repeat 0 -552px!important;background-size:16px!important}
+.icon_iframe{background:url(icons_hidpi.png) no-repeat 0 -576px!important;background-size:16px!important}
+.icon_image{background:url(icons_hidpi.png) no-repeat 0 -600px!important;background-size:16px!important}
+.icon_imagebutton{background:url(icons_hidpi.png) no-repeat 0 -624px!important;background-size:16px!important}
+.icon_rtl.icon_indent{background:url(icons_hidpi.png) no-repeat 0 -648px!important;background-size:16px!important}
+.icon_ltr.icon_indent{background:url(icons_hidpi.png) no-repeat 0 -672px!important;background-size:16px!important}
+.icon_italic{background:url(icons_hidpi.png) no-repeat 0 -696px!important;background-size:16px!important}
+.icon_justifyblock{background:url(icons_hidpi.png) no-repeat 0 -720px!important;background-size:16px!important}
+.icon_justifycenter{background:url(icons_hidpi.png) no-repeat 0 -744px!important;background-size:16px!important}
+.icon_justifyleft{background:url(icons_hidpi.png) no-repeat 0 -768px!important;background-size:16px!important}
+.icon_justifyright{background:url(icons_hidpi.png) no-repeat 0 -792px!important;background-size:16px!important}
+.icon_language{background:url(icons_hidpi.png) no-repeat 0 -816px!important;background-size:16px!important}
+.icon_link{background:url(icons_hidpi.png) no-repeat 0 -840px!important;background-size:16px!important}
+.icon_mathjax{background:url(icons_hidpi.png) no-repeat 0 -864px!important;background-size:16px!important}
+.icon_maximize{background:url(icons_hidpi.png) no-repeat 0 -888px!important;background-size:16px!important}
+.icon_rtl.icon_newpage{background:url(icons_hidpi.png) no-repeat 0 -912px!important;background-size:16px!important}
+.icon_ltr.icon_newpage{background:url(icons_hidpi.png) no-repeat 0 -936px!important;background-size:16px!important}
+.icon_rtl.icon_numberedlist{background:url(icons_hidpi.png) no-repeat 0 -960px!important;background-size:16px!important}
+.icon_ltr.icon_numberedlist{background:url(icons_hidpi.png) no-repeat 0 -984px!important;background-size:16px!important}
+.icon_rtl.icon_outdent{background:url(icons_hidpi.png) no-repeat 0 -1008px!important;background-size:16px!important}
+.icon_ltr.icon_outdent{background:url(icons_hidpi.png) no-repeat 0 -1032px!important;background-size:16px!important}
+.icon_rtl.icon_pagebreak{background:url(icons_hidpi.png) no-repeat 0 -1056px!important;background-size:16px!important}
+.icon_ltr.icon_pagebreak{background:url(icons_hidpi.png) no-repeat 0 -1080px!important;background-size:16px!important}
+.icon_rtl.icon_paste{background:url(icons_hidpi.png) no-repeat 0 -1104px!important;background-size:16px!important}
+.icon_ltr 
+.icon_paste,
+.icon_ltr
+.icon_paste{background:url(icons_hidpi.png) no-repeat 0 -1128px!important;background-size:16px!important}
+.icon_rtl
+.icon_pastefromword,
+.icon_mixed_dir_content 
+.icon_rtl 
+.icon_pastefromword{background:url(icons_hidpi.png) no-repeat 0 -1152px!important;background-size:16px!important}
+.icon_ltr 
+.icon_pastefromword,
+.icon_ltr
+.icon_pastefromword{background:url(icons_hidpi.png) no-repeat 0 -1176px!important;background-size:16px!important}
+.icon_rtl
+.icon_pastetext,
+.icon_mixed_dir_content 
+.icon_rtl 
+.icon_pastetext{background:url(icons_hidpi.png) no-repeat 0 -1200px!important;background-size:16px!important}
+.icon_ltr 
+.icon_pastetext,
+.icon_ltr
+.icon_pastetext{background:url(icons_hidpi.png) no-repeat 0 -1224px!important;background-size:16px!important}
+.icon_rtl
+.icon_preview,
+.icon_mixed_dir_content 
+.icon_rtl 
+.icon_preview{background:url(icons_hidpi.png) no-repeat 0 -1248px!important;background-size:16px!important}
+.icon_ltr 
+.icon_preview,
+.icon_ltr
+.icon_preview{background:url(icons_hidpi.png) no-repeat 0 -1272px!important;background-size:16px!important}
+.icon_print{background:url(icons_hidpi.png) no-repeat 0 -1296px!important;background-size:16px!important}
+.icon_radio{background:url(icons_hidpi.png) no-repeat 0 -1320px!important;background-size:16px!important}
+.icon_rtl
+.icon_redo,
+.icon_mixed_dir_content 
+.icon_rtl 
+.icon_redo{background:url(icons_hidpi.png) no-repeat 0 -1344px!important;background-size:16px!important}
+.icon_ltr 
+.icon_redo,
+.icon_ltr
+.icon_redo{background:url(icons_hidpi.png) no-repeat 0 -1368px!important;background-size:16px!important}
+.icon_removeformat{background:url(icons_hidpi.png) no-repeat 0 -1392px!important;background-size:16px!important}
+.icon_replace{background:url(icons_hidpi.png) no-repeat 0 -1416px!important;background-size:16px!important}
+.icon_save{background:url(icons_hidpi.png) no-repeat 0 -1440px!important;background-size:16px!important}
+.icon_scayt{background:url(icons_hidpi.png) no-repeat 0 -1464px!important;background-size:16px!important}
+.icon_rtl
+.icon_select,
+.icon_mixed_dir_content 
+.icon_rtl 
+.icon_select{background:url(icons_hidpi.png) no-repeat 0 -1488px!important;background-size:16px!important}
+.icon_ltr 
+.icon_select,
+.icon_ltr
+.icon_select{background:url(icons_hidpi.png) no-repeat 0 -1512px!important;background-size:16px!important}
+.icon_selectall{background:url(icons_hidpi.png) no-repeat 0 -1536px!important;background-size:16px!important}
+.icon_rtl
+.icon_showblocks,
+.icon_mixed_dir_content 
+.icon_rtl 
+.icon_showblocks{background:url(icons_hidpi.png) no-repeat 0 -1560px!important;background-size:16px!important}
+.icon_ltr 
+.icon_showblocks,
+.icon_ltr
+.icon_showblocks{background:url(icons_hidpi.png) no-repeat 0 -1584px!important;background-size:16px!important}
+.icon_smiley{background:url(icons_hidpi.png) no-repeat 0 -1608px!important;background-size:16px!important}
+.icon_rtl
+.icon_source,
+.icon_mixed_dir_content 
+.icon_rtl 
+.icon_source{background:url(icons_hidpi.png) no-repeat 0 -1632px!important;background-size:16px!important}
+.icon_ltr 
+.icon_source,
+.icon_ltr
+.icon_source{background:url(icons_hidpi.png) no-repeat 0 -1656px!important;background-size:16px!important}
+.icon_rtl
+.icon_sourcedialog,
+.icon_mixed_dir_content 
+.icon_rtl 
+.icon_sourcedialog{background:url(icons_hidpi.png) no-repeat 0 -1680px!important;background-size:16px!important}
+.icon_ltr 
+.icon_sourcedialog,
+.icon_ltr
+.icon_sourcedialog{background:url(icons_hidpi.png) no-repeat 0 -1704px!important;background-size:16px!important}
+.icon_specialchar{background:url(icons_hidpi.png) no-repeat 0 -1728px!important;background-size:16px!important}
+.icon_spellchecker{background:url(icons_hidpi.png) no-repeat 0 -1752px!important;background-size:16px!important}
+.icon_strike{background:url(icons_hidpi.png) no-repeat 0 -1776px!important;background-size:16px!important}
+.icon_subscript{background:url(icons_hidpi.png) no-repeat 0 -1800px!important;background-size:16px!important}
+.icon_superscript{background:url(icons_hidpi.png) no-repeat 0 -1824px!important;background-size:16px!important}
+.icon_table{background:url(icons_hidpi.png) no-repeat 0 -1848px!important;background-size:16px!important}
+.icon_templates{background:url(icons_hidpi.png) no-repeat 0 -1872px!important;background-size:16px!important}
+.icon_rtl
+.icon_textarea,
+.icon_mixed_dir_content 
+.icon_rtl 
+.icon_textarea{background:url(icons_hidpi.png) no-repeat 0 -1896px!important;background-size:16px!important}
+.icon_ltr 
+.icon_textarea,
+.icon_ltr
+.icon_textarea{background:url(icons_hidpi.png) no-repeat 0 -1920px!important;background-size:16px!important}
+.icon_textcolor{background:url(icons_hidpi.png) no-repeat 0 -1944px!important;background-size:16px!important}
+.icon_rtl
+.icon_textfield,
+.icon_mixed_dir_content 
+.icon_rtl 
+.icon_textfield{background:url(icons_hidpi.png) no-repeat 0 -1968px!important;background-size:16px!important}
+.icon_ltr 
+.icon_textfield,
+.icon_ltr
+.icon_textfield{background:url(icons_hidpi.png) no-repeat 0 -1992px!important;background-size:16px!important}
+.icon_uicolor{background:url(icons_hidpi.png) no-repeat 0 -2016px!important;background-size:16px!important}
+.icon_underline{background:url(icons_hidpi.png) no-repeat 0 -2040px!important;background-size:16px!important}
+.icon_rtl
+.icon_undo,
+.icon_mixed_dir_content 
+.icon_rtl 
+.icon_undo{background:url(icons_hidpi.png) no-repeat 0 -2064px!important;background-size:16px!important}
+.icon_ltr 
+.icon_undo,
+.icon_ltr
+.icon_undo{background:url(icons_hidpi.png) no-repeat 0 -2088px!important;background-size:16px!important}
+.icon_unlink{background:url(icons_hidpi.png) no-repeat 0 -2112px!important;background-size:16px!important}

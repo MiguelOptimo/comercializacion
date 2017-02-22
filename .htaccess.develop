@@ -1,0 +1,38 @@
+# BEGIN URL_AMIGABLES
+<IfModule mod_rewrite.c>
+
+	# fuente: http://www.emenia.es/como-crear-urls-amigables-con-htaccess/
+	# Activar RewriteEngine
+	RewriteEngine on
+
+	#RewriteBase /
+	RewriteBase /demos/app.hiexpress/
+	
+	RewriteCond %{SCRIPT_FILENAME} !-d
+	RewriteCond %{SCRIPT_FILENAME} !-f
+
+	# Reescribir la URL solicitada por el usuario (Parametro2 opcional)
+	#   Entrada:  URL/Parametro1[/Parametro2]
+	#   Salida: index.php?controlador=Parametro1&accion=Parametro2
+	RewriteRule ^(\w+)/?$ index.php?controlador=$1
+	RewriteRule ^(\w+)/(\w+)?$ index.php?controlador=$1&accion=$2
+	RewriteRule ^(\w+)/(\w+)/(\w+)?$ index.php?controlador=$1&accion=$2&key=$3
+
+	#RewriteRule . /index.php [L]
+	#RewriteRule . /demos/mattsa/app/index.php [L]	
+
+</IfModule>
+# END URL_AMIGABLES
+
+# http://davidwalsh.name/mod_rewrite-htaccess-godaddy
+# Mod Rewrite
+#Fix Rewrite
+#Options -Multiviews
+#Tada! The URLs began working and the website's SEO has taken off!
+#Options +FollowSymLinks
+#RewriteEngine On
+#RewriteBase /
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule . /index.php [L]
+#The fix to this problem was to add the following directive before my mod_rewrite directives:

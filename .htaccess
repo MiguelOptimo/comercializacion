@@ -1,0 +1,14 @@
+# BEGIN URL_AMIGABLES
+<IfModule mod_rewrite.c>
+	RewriteEngine on
+	#	Verificar la correcta definición de éste valor
+	RewriteBase /demos/app.comercializacion/
+	RewriteCond %{SCRIPT_FILENAME} !-d
+	RewriteCond %{SCRIPT_FILENAME} !-f
+	RewriteRule ^(\w+)/?$ index.php?controlador=$1
+	RewriteRule ^(\w+)/(\w+)?$ index.php?controlador=$1&accion=$2
+	RewriteRule ^(\w+)/(\w+)/(\w+)?$ index.php?controlador=$1&accion=$2&key=$3
+	RewriteRule ^(\w+)/(\w+)/(\w+)/?$ index.php?controlador=$1&accion=$2&key=$3
+
+	#RewriteRule ^web_assets/(.*)$ views/layout/$1 [R=301,NC,L]
+</IfModule>

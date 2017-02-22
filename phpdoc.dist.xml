@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpdoc>
+    <title>Phan</title>
+    <parser>
+        <target>_docs/phpdoc</target>
+        <encoding>utf8</encoding>
+        <markers>
+            <item>TODO</item>
+        </markers>
+        <visibility>public,protected</visibility>
+        <extensions>
+            <extension>php</extension>
+        </extensions>
+    </parser>
+    <transformer>
+        <target>_docs/phpdoc</target>
+    </transformer>
+    <transformations>
+        <template name="clean"/>
+    </transformations>
+    <files>
+        <directory>libs</directory>
+        <!-- directory>models</directory -->
+        <!-- directory>views</directory -->
+        <!-- directory>controllers</directory -->
+        
+        <!-- exclude all plugins -->
+        <ignore>libs/plugins/*</ignore>
+        <ignore>libs/smarty/*</ignore>
+    </files>
+    <logging>
+        <level>err</level>
+        <paths>
+            <default>_docs/build//log/{DATE}.log</default>
+            <errors>_docs/build/log/{DATE}.errors.log</errors>
+        </paths>
+    </logging>
+</phpdoc>

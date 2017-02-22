@@ -1,0 +1,29 @@
+[Aislantes minerales]
+http://www.bolsamania.com/mexico/noticias/empresas/alpek-anuncia-la-compra-de-petroquimica-suape-y-citipe-activos-de-brasilena-petrobras--2375296.html
+Chandra – Laravel Admin UI Kit
+https://github.com/acacha/adminlte-laravel
+
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('SHA384', 'composer-setup.php') === '55d6ead61b29c7bdee5cccfb50076874187bd9f21f65d8991d46ec5cc90518f447387fb9f76ebae1fbbacf329e583e30') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+
+
+017dc3
+#featuredbox {
+    border-color: #388da9 !important;
+    border-bottom: 6px solid;
+}
+
+https://geekytheory.com/como-convertir-tu-wordpress-en-un-wordpress-multisite/
+
+☰
+
+https://www.ca.com/us/developers/mas/features.html?id=0
+https://taiga.io/
+https://gersonlazaro.com/certificados-ssl-completamente-gratuitos/
+SSL Gratuitos: https://letsencrypt.org/
+
+
+https://github.com/taigaio/
+

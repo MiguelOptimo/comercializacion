@@ -1,0 +1,9 @@
+2017/02/13 | 10:02:26 | 201.152.239.206 | 1 | UsuController->Profile | main() | controllerName: UsuController | actionName: Profile
+2017/02/13 | 10:02:26 | 201.152.239.206 | 1 | UsuController->Profile | main() | POST
+2017/02/13 | 10:02:26 | 201.152.239.206 | 1 | UsuController->Profile | main() | []
+2017/02/13 | 10:02:26 | 201.152.239.206 | 1 | UsuController->Profile | main() | GET
+2017/02/13 | 10:02:26 | 201.152.239.206 | 1 | UsuController->Profile | main() | {"controlador":"Usu","accion":"Profile"}
+2017/02/13 | 10:02:26 | 201.152.239.206 | 1 | UsuController->Profile | setSession() | Controller::setSession()
+2017/02/13 | 10:02:26 | 201.152.239.206 | 1 | UsuController->Profile | getPrimaryTable() | Controller::getPrimaryTable() | Nombre de tabla no definida, se usará un modelo vacío.
+2017/02/13 | 10:02:26 | 201.152.239.206 | 1 | UsuController->Profile | __construct() | Conectado a la BD | mysql:host=lmgmedica.db.10158276.hostedresource.com;dbname=lmgmedica | lmgmedica | H819al30#
+2017/02/13 | 10:02:26 | 201.152.239.206 | 1 | UsuController->Profile | Fetch() | SELECT   FROM  WHERE 
